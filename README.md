@@ -1,2 +1,2 @@
-# abap_scp
-ABAP SCP
+# abap_btp
+ABAP BTP
